@@ -1,0 +1,12 @@
+README.md
+setup.py
+foote_tak/__init__.py
+foote_tak.egg-info/PKG-INFO
+foote_tak.egg-info/SOURCES.txt
+foote_tak.egg-info/dependency_links.txt
+foote_tak.egg-info/requires.txt
+foote_tak.egg-info/top_level.txt
+foote_tak/envs/__init__.py
+foote_tak/envs/tak_env.py
+foote_tak/wrappers/__init__.py
+foote_tak/wrappers/tak_actions.py
